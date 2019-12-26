@@ -1,0 +1,139 @@
+2019-12-24 11:44:41 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 16056 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 11:44:41 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 11:44:41 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 11:44:48 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 11:44:48 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 11:44:51 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.59 seconds (JVM running for 16.316)
+2019-12-24 12:19:21 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 16804 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:19:21 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:19:21 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 12:19:28 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:19:28 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:19:30 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.411 seconds (JVM running for 11.573)
+2019-12-24 12:25:45 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 15336 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:25:45 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:25:45 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 12:25:54 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:25:54 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:25:58 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 14.083 seconds (JVM running for 27.815)
+2019-12-24 12:41:17 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 16604 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:41:17 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:41:17 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 12:41:25 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:41:25 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:41:27 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Started SecurityDemoApplication in 10.596 seconds (JVM running for 14.202)
+2019-12-24 12:41:39 [http-nio-8080-exec-3] INFO  c.s.app.controller.LoginController - In controller with Sign up
+2019-12-24 12:42:04 [http-nio-8080-exec-5] INFO  c.s.app.controller.LoginController - Value Has Been Taken From User
+2019-12-24 12:42:12 [http-nio-8080-exec-5] INFO  c.s.app.controller.LoginController - Values Has Been Get set
+2019-12-24 12:42:30 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 6444 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:42:30 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:42:30 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 12:42:37 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:42:37 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:42:39 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.151 seconds (JVM running for 12.799)
+2019-12-24 12:43:38 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 16604 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:43:38 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:43:38 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 12:43:40 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:43:40 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:43:40 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Started SecurityDemoApplication in 1.86 seconds (JVM running for 147.915)
+2019-12-24 12:52:24 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 7840 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 12:52:24 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 12:52:24 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 12:52:34 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 12:52:34 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 12:52:36 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 13.033 seconds (JVM running for 16.748)
+2019-12-24 13:38:07 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 12000 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 13:38:07 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 13:38:07 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 13:38:13 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 13:38:13 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 13:38:15 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.431 seconds (JVM running for 11.403)
+2019-12-24 14:05:01 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 2252 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 14:05:01 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 14:05:01 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 14:05:07 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 14:05:07 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 14:05:09 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 8.945 seconds (JVM running for 11.368)
+2019-12-24 14:31:23 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 6684 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 14:31:23 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 14:31:23 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 14:31:30 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 14:31:30 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 14:31:33 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.909 seconds (JVM running for 16.282)
+2019-12-24 14:31:54 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 18016 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 14:31:54 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 14:31:54 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 14:32:00 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 14:32:00 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 14:32:02 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 8.89 seconds (JVM running for 11.258)
+2019-12-24 14:33:52 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 17736 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 14:33:53 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 14:33:53 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 14:34:00 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 14:34:00 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 14:34:02 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.252 seconds (JVM running for 12.608)
+2019-12-24 15:09:16 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 12804 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 15:09:16 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 15:09:16 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 15:09:23 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 15:09:23 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 15:09:26 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.403 seconds (JVM running for 12.74)
+2019-12-24 15:13:58 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 10020 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 15:13:58 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 15:13:58 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 15:14:05 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 15:14:05 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 15:14:08 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.539 seconds (JVM running for 12.567)
+2019-12-24 15:33:18 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 17104 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 15:33:18 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 15:33:18 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 15:33:25 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 15:33:25 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 15:33:28 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 10.404 seconds (JVM running for 12.719)
+2019-12-24 15:48:04 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 17028 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 15:48:04 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 15:48:04 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 15:48:10 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 15:48:10 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 15:48:13 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.534 seconds (JVM running for 11.57)
+2019-12-24 15:53:07 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 17952 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 15:53:07 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 15:53:07 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 15:53:14 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 15:53:14 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 15:53:17 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.883 seconds (JVM running for 11.958)
+2019-12-24 16:25:04 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 17176 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 16:25:04 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 16:25:04 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 16:25:10 [main] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 16:25:10 [main] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 16:25:13 [main] INFO  c.s.app.SecurityDemoApplicationTests - Started SecurityDemoApplicationTests in 9.117 seconds (JVM running for 11.485)
+2019-12-24 16:25:13 [main] INFO  c.s.app.SecurityDemoApplicationTests - ROLE_USER
+2019-12-24 17:10:52 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 15756 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:10:52 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:10:52 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 17:11:57 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 2316 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:11:57 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:11:57 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 17:13:19 [main] INFO  c.s.app.SecurityDemoApplicationTests - Starting SecurityDemoApplicationTests on DML-05823 with PID 18248 (started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:13:19 [main] DEBUG c.s.app.SecurityDemoApplicationTests - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:13:19 [main] INFO  c.s.app.SecurityDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-24 17:13:50 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 6956 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:13:50 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:13:50 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 17:14:58 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 10260 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:14:58 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:14:58 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 17:15:54 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 17836 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:15:54 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:15:54 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 17:16:34 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 13104 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:16:34 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:16:34 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 17:20:23 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 14472 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-24 17:20:23 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-24 17:20:23 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-24 17:20:31 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-24 17:20:31 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-24 17:20:32 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Started SecurityDemoApplication in 9.98 seconds (JVM running for 11.158)

@@ -4,13 +4,17 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+
+import com.security.app.controller.LoginController;
 
 public class LoginUserDetails implements UserDetails {
 
 	private UserLogin userLogin;
-	
+	private static final Logger logger = LoggerFactory.getLogger(LoginUserDetails.class);
 	
 	
 	public LoginUserDetails(UserLogin userLogin) {
@@ -20,8 +24,8 @@ public class LoginUserDetails implements UserDetails {
 
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
-		
-		 return userLogin.getAuthorities().stream().map(authority -> new SimpleGrantedAuthority(authority.getName().toString())).collect(Collectors.toList());
+		logger.info("Inside Grant Authority");
+		 return userLogin.getAuthorities().stream().map(authority -> new SimpleGrantedAuthority(authority.getRole().toString())).collect(Collectors.toList());
 	}
 
 	@Override

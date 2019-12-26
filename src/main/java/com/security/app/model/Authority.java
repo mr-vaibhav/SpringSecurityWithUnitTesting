@@ -9,6 +9,9 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotEmpty;
 
+import org.springframework.stereotype.Component;
+
+
 @Entity
 @Table(name = "authority")
 public class Authority {
@@ -17,22 +20,16 @@ public class Authority {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Integer id;
 
-	@Enumerated(EnumType.STRING)
-	@NotEmpty(message = "Authority type not be empty")
-	private AuthorityType name;
-
-	enum AuthorityType {
-		ROLE_ADMIN, ROLE_USER
-	}
+	private String role;
 
 	public Authority() {
 		super();
 	}
 
-	public Authority(Integer id, AuthorityType name) {
+	public Authority(Integer id, String role) {
 		super();
 		this.id = id;
-		this.name = name;
+		this.role = role;
 	}
 
 	public Integer getId() {
@@ -43,17 +40,17 @@ public class Authority {
 		this.id = id;
 	}
 
-	public AuthorityType getName() {
-		return name;
+	public String getRole() {
+		return role;
 	}
 
-	public void setName(AuthorityType name) {
-		this.name = name;
+	public void setRole(String role) {
+		this.role = role;
 	}
 
 	@Override
 	public String toString() {
-		return "Authority [id=" + id + ", name=" + name + "]";
+		return "Authority [id=" + id + ", Role=" + role + "]";
 	}
 
 }

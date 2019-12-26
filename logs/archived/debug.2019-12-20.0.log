@@ -1,0 +1,6 @@
+2019-12-20 11:14:21 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Starting SecurityDemoApplication on DML-05823 with PID 4520 (D:\Eclipse\SecurityDemoWithJspUnitTesting\target\classes started by jvaibhavbalu in D:\Eclipse\SecurityDemoWithJspUnitTesting)
+2019-12-20 11:14:21 [restartedMain] DEBUG c.s.app.SecurityDemoApplication - Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-20 11:14:21 [restartedMain] INFO  c.s.app.SecurityDemoApplication - No active profile set, falling back to default profiles: default
+2019-12-20 11:14:38 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside AuthenticationManagerBuilder
+2019-12-20 11:14:38 [restartedMain] INFO  c.security.app.config.SecurityConfig - inside DaoAuthenticationProvider
+2019-12-20 11:14:39 [restartedMain] INFO  c.s.app.SecurityDemoApplication - Started SecurityDemoApplication in 20.648 seconds (JVM running for 26.338)

@@ -5,9 +5,10 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="webjars/bootstrap/3.3.7/css/bootstrap.min.css" />
 </head>
 <body>
-<h3>Sign up Successful</h3>
+<div class="h2 text-center mt-1">Sign up Successful</div>
 <a href="login">Login</a>
 </body>
 </html>
